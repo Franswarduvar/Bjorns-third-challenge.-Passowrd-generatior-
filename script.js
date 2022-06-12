@@ -14,4 +14,4 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 
-window.prompt("How many characters would you like your password to be?");
+window.prompt.addEventListener("How many characters would you like your password to be?");
