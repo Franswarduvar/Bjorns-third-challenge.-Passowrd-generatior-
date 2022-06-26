@@ -10,3 +10,7 @@ Photo of the prompt for number of char:
 https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/InitSS-of-password-generator.PNG
 
 Photo of first yes/no prompt:
+https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/Prompt1SS-of-password-generator.PNG
+
+Photo of second yes/no prompt:
+
