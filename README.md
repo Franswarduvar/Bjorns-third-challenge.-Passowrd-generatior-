@@ -27,3 +27,7 @@ https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/bl
 Photo of six yes/no prompt:
 https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/Prompt6SS-of-password-generator.PNG
 
+Photo of finished product:
+https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/FinalSS-of-password-generator.PNG
+
+Those are the pictures of my challenge and the working code. 
