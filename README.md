@@ -6,3 +6,7 @@ In these files there are the code given to me, the HTML and CSS along with the c
 Photo of the working HTML and CSS:
 https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/StartSS-of-password-generator.PNG
 
+Photo of the prompt for number of char:
+https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/InitSS-of-password-generator.PNG
+
+Photo of first yes/no prompt:
