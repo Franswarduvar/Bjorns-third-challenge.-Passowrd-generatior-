@@ -13,4 +13,6 @@ Photo of first yes/no prompt:
 https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/Prompt1SS-of-password-generator.PNG
 
 Photo of second yes/no prompt:
+https://github.com/Franswarduvar/Bjorns-third-challenge.-Passowrd-generatior-/blob/main/assets/images/Prompt2SS-of-password-generator.PNG
 
+Photo of third yes/no prompt:
